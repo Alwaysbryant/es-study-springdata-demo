@@ -1,0 +1,3 @@
+elasticsearch:
+  port: 18120
+  host: localhost
